@@ -11,4 +11,4 @@ Fungsi dari program ini adalah untuk menghitung jumlah kemunculan tiap kata dala
 "have", "has", "had", "do", "does", "did", "but", "at", "by", "with", "from", "here", "when", "where", "how", "all", "any", "both", "each", "few", "more", "some", "such", "no", "nor", "too", "very", "can", "will", "just"`
 
 ### :crystal_ball: Contoh WordCloud
-![WordCloud.png]()
+![WordCloud.png](https://github.com/nardiyansah/WordCloud-Final-Project-Crash-on-Python-Google/blob/master/WordCloud.PNG)
