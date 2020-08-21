@@ -12,3 +12,5 @@ Fungsi dari program ini adalah untuk menghitung jumlah kemunculan tiap kata dala
 
 ### :crystal_ball: Contoh WordCloud
 ![WordCloud.png](https://github.com/nardiyansah/WordCloud-Final-Project-Crash-on-Python-Google/blob/master/WordCloud.PNG)
+
+<sub><sup>Repo ini saya buat sebagai rekam jejak belajar saya, Saya tidak mengijinkan bagi siapapun untuk menyalin ulang keseluruhan kode ini untuk kepentingan pribadi</sup></sub>
