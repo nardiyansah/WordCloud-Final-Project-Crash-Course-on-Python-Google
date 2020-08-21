@@ -1,5 +1,5 @@
 # WordCloud
-ini adalah *source code* hasil kerja saya untuk memenuhi tugas Final Project pada kursus **Crash on Python** dari **Google**.
+ini adalah *source code* hasil kerja saya untuk memenuhi tugas Final Project pada kursus **Crash Course on Python** dari **Google**.
 
 Fungsi dari program ini adalah untuk menghitung jumlah kemunculan tiap kata dalam suatu teks dan membuat gambar WordCloud dari kata-kata tersebut. Dalam perhitungan kata-kata, tanda baca dan kata yang tidak terlalu penting tidak ikut dihitung.
 
